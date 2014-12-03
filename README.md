@@ -1,4 +1,6 @@
 datasciencecoursera
 ===================
 
-The Data Scientist's Toolbox class
+The Data Scientist's Toolbox class!
+
+I like :this course:.
